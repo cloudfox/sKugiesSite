@@ -7,12 +7,12 @@ const config: Config = {
   tagline: 'A Portfolio and Dev site.',
   favicon: 'img/favicon.ico',
 
-  url: '/<siteBaseUrl>/,
-  baseUrl: ' /sKugiesSite/',
+  url: 'cloudfox.github.io/,
+  baseUrl: ' /',
 
   // GitHub pages deployment config.
   organizationName: 'Steven Kugies',
-  projectName: 'docusaurus-template',
+  projectName: 'cloudfox.github.io/',
   onBrokenLinks: 'throw',
 
   onBrokenMarkdownLinks: 'warn',
