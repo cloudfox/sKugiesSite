@@ -7,8 +7,8 @@ const config: Config = {
   tagline: 'A Portfolio and Dev site.',
   favicon: 'img/favicon.ico',
 
-  url: 'https://cloudfox.github.io/sKugiesSite/',
-  baseUrl: '/',
+  url: 'https://cloudfox.github.io/',
+  baseUrl: ' /sKugiesSite/',
 
   // GitHub pages deployment config.
   organizationName: 'roboticsoutreach',
