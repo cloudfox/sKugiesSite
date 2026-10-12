@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://cloudfox.github.io',
-  baseUrl: '/',
+  baseUrl: '/sKugiesSite/',
 
   // GitHub pages deployment config.
   organizationName: 'Steven Kugies',
