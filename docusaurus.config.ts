@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'A Portfolio and Dev site.',
   favicon: 'img/favicon.ico',
 
-  url: 'https://www.skugies.com',
+  url: 'https://cloudfox.github.io/sKugiesSite/',
   baseUrl: '/',
 
   // GitHub pages deployment config.
